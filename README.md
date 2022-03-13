@@ -1,4 +1,4 @@
-# NLP
+# Simple NLP Tasks
 I have used the NLTK library for natural language processing tasks. I have downloaded an ebook "The Tales of Chinatown" from https://www.gutenberg.org/.
 Then performed the following steps:
 
